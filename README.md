@@ -1,7 +1,8 @@
 
 
-Potovzuc#1409 adlı discord kullanıcısının ilk botu 
+Potovzuc#1557 
 
-F
 
-Çalıştırmak için cmdyi açıp cd ile doyayolunu belirtin ardından node server.js
+git clone https://github.com/potovzuc/AEYNA
+cmd open locale file 
+node server.js
